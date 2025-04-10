@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/KPkm25/java_microservices.git'
+                git 'https://github.com/AkashChand6n/final-pipeline.git'
             }
         }
 
